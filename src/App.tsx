@@ -10,7 +10,10 @@ export default function App() {
         </div>
       </SignedOut>
       <SignedIn>
+        <div style={{marginLeft:"620px", marginTop:"-137px"}}>
+          Welcome to RaaP 
         <UserButton />
+        </div>
       </SignedIn>
     </header>
   );
