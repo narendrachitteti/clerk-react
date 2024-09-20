@@ -5,7 +5,7 @@ export default function App() {
     <header>
       <SignedOut>
         <center>
-        <div style={{border:"1px solid grey", borderRadius:"5px"}}>
+        <div style={{margin:"40px", border:"1px solid grey", borderRadius:"5px"}}>
         <SignInButton />
         into RaaP Portal
         </div>
