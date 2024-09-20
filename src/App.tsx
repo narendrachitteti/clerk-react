@@ -5,9 +5,10 @@ export default function App() {
     <header>
       <SignedOut>
         <center>
+        <h3>Welcome to RaaP Portal</h3>
+        <h4>please click on sign in</h4>
         <div style={{margin:"40px", border:"1px solid grey", borderRadius:"5px"}}>
         <SignInButton />
-        into RaaP Portal
         </div>
         </center>
       </SignedOut>
