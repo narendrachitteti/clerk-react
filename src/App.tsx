@@ -13,8 +13,9 @@ export default function App() {
         </center>
       </SignedOut>
       <SignedIn>
-        <div style={{marginLeft:"620px", marginTop:"-137px"}}>
-          Welcome to RaaP 
+      <h3>Welcome to RaaP Portal</h3>
+      <h5>please click on profile icon</h5>
+      <div style={{margin:"40px"}}>
         <UserButton />
         </div>
       </SignedIn>
